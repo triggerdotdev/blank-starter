@@ -9,7 +9,7 @@ Currently this repo has no workflows, but it's all setup and ready to go for you
 You can easily create a new project interactively based on this template by running:
 
 ```sh
-npm create trigger@latest blank-starter
+npx create-trigger@latest blank-starter
 # or
 yarn create trigger blank-starter
 # or
