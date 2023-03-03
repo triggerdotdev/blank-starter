@@ -27,6 +27,6 @@
     "typescript": "^4.9.4"
   },
   "triggerdotdev": {
-    "template": "hello-world"
+    "template": "blank-starter"
   }
 }
