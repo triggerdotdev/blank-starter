@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "",
   "dependencies": {
-    "@trigger.dev/sdk": "^0.2.21",
+    "@trigger.dev/sdk": "^0.2.22",
     "zod": "^3.20.2"
   },
   "devDependencies": {
